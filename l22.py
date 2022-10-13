@@ -5,4 +5,5 @@ if len(n)>len(m):
 elif len(n)<len(m):
     print("n меньше m")
 else:
+    print("кто я?")
     print("n=m")
